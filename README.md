@@ -2,7 +2,7 @@
 
 ## 📦 Installation
 
-1. Download the latest version from the **[Releases](https://github.com/YourUsername/Ytheryn/releases)** page.
+1. Download the latest version from the **[Releases](https://github.com/ThorXael/Ytheryn/releases)** page.
 2. Run `Ytheryn.exe` — no installation required.
 
 > ⚠️ Ytheryn requires administrator privileges to apply system-level tweaks.
